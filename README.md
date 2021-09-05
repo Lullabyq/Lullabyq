@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Lullabyq
+- 👋 Hi, I’m `@Lullabyq`
 - 🌱 I’m currently learning JavaScript in order to become a FrontEnd development
 - I'm also studying in MEPHI University
